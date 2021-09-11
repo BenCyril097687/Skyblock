@@ -1,4 +1,4 @@
-name: SkyBlock
+name: Skyblock
 main: MyPlot\MyPlot
 version: 1.0
 load: STARTUP
