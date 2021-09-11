@@ -1,2 +1,3 @@
 # Skyblock
-Skyblock for Pocketmine-MP
+Skyblock for Pocketmine-MP   
+This plugin supports your Skyblock server
